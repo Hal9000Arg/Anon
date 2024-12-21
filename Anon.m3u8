@@ -5,6 +5,9 @@ http://191.97.6.27:8000/play/a07s/index.m3u8
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
+#EXTINF:-1,LN+
+https://www.youtube.com/watch?v=G5pHuBCqgrs
+
 #EXTINF:-1,Telemundo
 http://191.97.6.27:8000/play/a07y/index.m3u8
 
