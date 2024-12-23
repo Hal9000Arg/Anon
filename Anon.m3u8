@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AE Mundo
-http://191.97.6.27:8000/play/a07s/index.m3u8
 
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
@@ -14,14 +12,8 @@ http://191.97.6.27:8000/play/a07y/index.m3u8
 #EXTINF:-1,TVE
 http://191.97.6.27:8000/play/a0a1/index.m3u8
 
-#EXTINF:0,E!
-http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
-
 #EXTINF:0,Las Estrellas
 http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
-
-#EXTINF:-1,AXN
-http://191.97.6.27:8000/play/a095/index.m3u8
 
 #EXTINF:0,El Trece
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
@@ -69,6 +61,9 @@ http://191.97.6.27:8000/play/a09p/index.m3u8
 
 #EXTINF:-1,Nat Geo
 http://191.97.6.27:8000/play/a09o/index.m3u8
+
+#EXTINF:0,E!
+http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 #EXTINF:-1,HomeandHealth
 http://191.97.6.27:8000/play/a084/index.m3u8
@@ -225,6 +220,12 @@ http://191.97.6.27:8000/play/a09n/index.m3u8
 
 #EXTINF:-1,RCN Novelas
 http://191.97.6.27:8000/play/a07z/index.m3u8
+
+#EXTINF:-1,AE Mundo
+http://191.97.6.27:8000/play/a07s/index.m3u8
+
+#EXTINF:-1,AXN
+http://191.97.6.27:8000/play/a095/index.m3u8
 
 #EXTINF:-1,STAR CHANNEL
 http://191.97.6.27:8000/play/a09w/index.m3u8
