@@ -153,6 +153,13 @@ http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
 #EXTINF:0, Fox sports
 https://cxvpy2s.fubohd.com/lb/foxsports/index.m3u8?token=af6b2ac004ca6e61a0aca253e49ca412a3d0fec1-b0-1735016516-1734980516
 
+
+#EXTINF:0, Fox sports 2
+https://yxdlc29tzq.fubohd.com/lb/foxsports2/index.m3u8?token=6240bb65cbbb5a1f96dc3af43a281857711e26eb-c2-1735016918-1734980918
+
+#EXTINF:0, Fox sports 3
+https://c3bvcnrz.fubohd.com/lb/foxsports3/index.m3u8?token=384150cf7c4bc9af1ad73822c991c1a8f86ce0f6-a7-1735017020-1734981020
+
 #EXTINF:0,TUDN
 http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
 
