@@ -98,15 +98,9 @@ http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
 #EXTINF:0,History
 http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 
-
 #EXTINF:-1,Discovery Turbo
 http://191.97.6.27:8000/play/a09f/index.m3u8
 
-#EXTINF:-1,E Entertainment
-http://191.97.6.27:8000/play/a07l/index.m3u8
-
-#EXTINF:10,Bein Sports Extra Ñ
-http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
 
 #EXTINF:10,Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
@@ -152,22 +146,6 @@ http://191.97.6.27:8000/play/a089/index.m3u8
 
 #EXTINF:-1,ESPN CO
 http://191.97.6.27:8000/play/a08t/index.m3u8
-
-#EXTINF:10,Bein Sports Extra Ñ
-http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
-
-#EXTINF:10,Claro Sports
-http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
-
-
-#EXTINF:0,Directv Sports 2
-http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
-
-#EXTINF:-1,Fox Sports 2
-http://191.97.6.27:8000/play/a07w/index.m3u8
-
-#EXTINF:-1,Fox Sports 3
-http://191.97.6.27:8000/play/a07x/index.m3u8
 
 #EXTINF:0,TNT Sports
 http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
