@@ -21,6 +21,9 @@ http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 #EXTINF:-1,America TV PY
 http://191.97.6.27:8000/play/a08d/index.m3u8
 
+
+#EXTINF:0,El Nueve
+https://usher.ttvnw.net/api/channel/hls/elnueve_ok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNjZmOTQ2NjEtNWM1Yy00MjI2LWFjOGYtYTUyZWI2OGZmYjE2In0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Android&os_version=13&p=8785706&parent_domains=twitchplayer&platform=mobile_web&play_session_id=09b2684cc64927f8bac6f76b3c590e18&player_backend=mediaplayer&player_version=1.35.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=82955b03eb270f57d3c8c9e8bad6e9360bfce0b9&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueve_ok%22%2C%22channel_id%22%3A1078801482%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22M3rOULeoHk5RjND3PylaOrSLo38tqM0l%22%2C%22expires%22%3A1734983436%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22138.204.7.254%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:0,TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
