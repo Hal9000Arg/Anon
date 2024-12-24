@@ -6,14 +6,14 @@ https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:-1,LN+
 https://www.youtube.com/watch?v=G5pHuBCqgrs
 
+#EXTINF:0,El Gourmet
+http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
+
 #EXTINF:-1,Telemundo
 http://191.97.6.27:8000/play/a07y/index.m3u8
 
 #EXTINF:-1,TVE
 http://191.97.6.27:8000/play/a0a1/index.m3u8
-
-#EXTINF:0,Las Estrellas
-http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
 
 #EXTINF:0,El Trece
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
@@ -22,10 +22,8 @@ http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 http://191.97.6.27:8000/play/a08d/index.m3u8
 
 
-#EXTINF:0,El Nueve
-https://usher.ttvnw.net/api/channel/hls/elnueve_ok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNjZmOTQ2NjEtNWM1Yy00MjI2LWFjOGYtYTUyZWI2OGZmYjE2In0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Android&os_version=13&p=8785706&parent_domains=twitchplayer&platform=mobile_web&play_session_id=09b2684cc64927f8bac6f76b3c590e18&player_backend=mediaplayer&player_version=1.35.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=82955b03eb270f57d3c8c9e8bad6e9360bfce0b9&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueve_ok%22%2C%22channel_id%22%3A1078801482%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22M3rOULeoHk5RjND3PylaOrSLo38tqM0l%22%2C%22expires%22%3A1734983436%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22138.204.7.254%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
-#EXTINF:0,TLC
-http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
+
+
 
 #EXTINF:0,Telefe
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
@@ -55,12 +53,12 @@ http://191.97.6.27:8000/play/a08p/index.m3u8
 #EXTINF:-1,Capital
 http://191.97.6.27:8000/play/a090/index.m3u8
 
+#EXTINF:0,TLC
+http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
+
 
 #EXTINF:-1,Animal Planet
 http://191.97.6.27:8000/play/a07j/index.m3u8
-
-#EXTINF:-1,History Channel
-http://191.97.6.27:8000/play/a09p/index.m3u8
 
 #EXTINF:-1,Nat Geo
 http://191.97.6.27:8000/play/a09o/index.m3u8
@@ -92,30 +90,25 @@ http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
 #EXTINF:0,Discovery World
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
 
-#EXTINF:0,El Gourmet
-http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
+#EXTINF:0,History 
+http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 
 #EXTINF:0,H2
 http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
 
-#EXTINF:0,History
-http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
-
-#EXTINF:-1,Discovery Turbo
-http://191.97.6.27:8000/play/a09f/index.m3u8
 
 
 #EXTINF:10,Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 
-#EXTINF:0,DAZN 1
+
+#EXTINF:0, Fox Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
+
+
 
 #EXTINF:0,DAZN 2
 http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
-
-#EXTINF:0,DAZN 3
-http://tv.teleclub.xyz/club/server_1/deportes/dazn3/index.m3u8
 
 #EXTINF:0,DAZN F1
 http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
@@ -123,8 +116,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 #EXTINF:0,DAZN La Liga
 http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
 
-#EXTINF:0,DAZN Moto GP
-http://tv.teleclub.xyz/club/server_1/deportes/daznmotogp/index.m3u8
+
 
 #EXTINF:0,Directv Sports +
 http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
@@ -144,7 +136,7 @@ http://191.97.6.27:8000/play/a07n/index.m3u8
 #EXTINF:-1,ESPN 3
 http://191.97.6.27:8000/play/a09h/index.m3u8
 
-#EXTINF:-1,ESPN 4
+#EXTINF:-1,ESPN 5
 http://191.97.6.27:8000/play/a089/index.m3u8
 
 #EXTINF:-1,ESPN CO
@@ -153,15 +145,8 @@ http://191.97.6.27:8000/play/a08t/index.m3u8
 #EXTINF:0,TNT Sports
 http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
 
-#EXTINF:0, Fox sports
-https://cxvpy2s.fubohd.com/lb/foxsports/index.m3u8?token=af6b2ac004ca6e61a0aca253e49ca412a3d0fec1-b0-1735016516-1734980516
-
-
-#EXTINF:0, Fox sports 2
-https://yxdlc29tzq.fubohd.com/lb/foxsports2/index.m3u8?token=6240bb65cbbb5a1f96dc3af43a281857711e26eb-c2-1735016918-1734980918
-
-#EXTINF:0, Fox sports 3
-https://c3bvcnrz.fubohd.com/lb/foxsports3/index.m3u8?token=384150cf7c4bc9af1ad73822c991c1a8f86ce0f6-a7-1735017020-1734981020
+#EXTINF:0,TyC Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
 #EXTINF:0,TUDN
 http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
@@ -169,8 +154,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
 #EXTINF:0,TUDN VIX +
 http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
 
-#EXTINF:0,TyC Sports
-http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+
 
 
 
@@ -183,10 +167,8 @@ http://191.97.6.27:8000/play/a09y/index.m3u8
 #EXTINF:-1,BabyFirst
 http://191.97.6.27:8000/play/a0a2/index.m3u8
 
-
 #EXTINF:0,Tooncast
 http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
-
 
 #EXTINF:-1,Discovery Kids
 http://191.97.6.27:8000/play/a0a5/index.m3u8
@@ -215,6 +197,12 @@ http://191.97.6.27:8000/play/a095/index.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://191.97.6.27:8000/play/a09w/index.m3u8
 
+#EXTINF:0,Star Action
+http://tv.teleclub.xyz/club/server_2/entretenimiento/staraction/index.m3u8
+
+#EXTINF:0,Star Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
+
 #EXTINF:-1,Cinecanal
 http://191.97.6.27:8000/play/a09q/index.m3u8
 
@@ -224,11 +212,12 @@ http://191.97.6.27:8000/play/a093/index.m3u8
 #EXTINF:-1,Sony
 http://191.97.6.27:8000/play/a094/index.m3u8
 
+#EXTINF:0,Sony Cine
+http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
+
 #EXTINF:-1,Space
 http://191.97.6.27:8000/play/a096/index.m3u8
 
-#EXTINF:-1,Studio Universal
-http://191.97.6.27:8000/play/a0al/index.m3u8
 
 #EXTINF:-1,TCM
 http://191.97.6.27:8000/play/a09x/index.m3u8
@@ -239,16 +228,16 @@ http://191.97.6.27:8000/play/a07t/index.m3u8
 #EXTINF:-1,TNT
 http://191.97.6.27:8000/play/a09z/index.m3u8
 
+#EXTINF:0,TNT Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
+
 #EXTINF:-1,TNT Novelas
 http://191.97.6.27:8000/play/a082/index.m3u8
 
 #EXTINF:-1,USA SD
 http://191.97.6.27:8000/play/a0a4/index.m3u8
 
-#EXTINF:-1,Universal
-http://191.97.6.27:8000/play/a09r/index.m3u8
-
-#EXTINF:-1,Warner
+#EXTINF:-1,Warner Channel
 http://191.97.6.27:8000/play/a07k/index.m3u8
 
 #EXTINF:0,Comedy Central
@@ -260,16 +249,14 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
 #EXTINF:0,De Pelicula
 http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
 
-#EXTINF:0,Distrito Comedia
-http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
 
 
 #EXTINF:0,FX
 http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
 
+
 #EXTINF:0,Golden
 http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
-
 
 #EXTINF:0,Golden Edge
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
@@ -280,45 +267,21 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
 #EXTINF:0,Golden Premier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
 
-
 #EXTINF:0,Golden Premier 2
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
+
 
 #EXTINF:0,Multipremier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
 
+
 #EXTINF:0,Paramount Network
 http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
 
-#EXTINF:0,Sony
-http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
 
-#EXTINF:0,Sony Cine
-http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
-
-#EXTINF:0,Space
-http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
-
-#EXTINF:0,Star Action
-http://tv.teleclub.xyz/club/server_2/entretenimiento/staraction/index.m3u8
-
-#EXTINF:0,Star Channel
-http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
-
-#EXTINF:0,Star Series
-http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
 
 #EXTINF:0,Studio Universal
 http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
-
-#EXTINF:0,Syfy
-http://tv.teleclub.xyz/club/server_2/entretenimiento/syfy/index.m3u8
-
-#EXTINF:0,TNT
-http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8
-
-#EXTINF:0,TNT Series
-http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
 
 #EXTINF:0,Universal Cinema
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
@@ -328,25 +291,6 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u
 
 #EXTINF:0,Universal TV
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
-
-#EXTINF:-1,HBO
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
-#EXTINF:-1,HBO 2
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
-#EXTINF:-1,HBO Family
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
-#EXTINF:-1,HBO Plus
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
-#EXTINF:-1,HBO PoP
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/117
-#EXTINF:-1,HBO Signature
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
-#EXTINF:-1,HBO Xtreme
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
-
-#EXTINF:0,Warner Channel
-http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannel/index.m3u8
-
 
 
 
@@ -359,11 +303,7 @@ http://tv.teleclub.xyz/club/server_2/musica/mtvhits/index.m3u8
 #EXTINF:0,Music Top
 http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
 
-#EXTINF:0,Telehit
-http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8
 
-#EXTINF:0,Top Latino
-http://tv.teleclub.xyz/club/server_2/musica/toplatino/index.m3u8
 
 
 
