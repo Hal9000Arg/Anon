@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:-1,LN+
 https://www.youtube.com/watch?v=G5pHuBCqgrs
 
+#EXTINF:-1,TV Pública 
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
+
 #EXTINF:0,El Gourmet
 http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
 
