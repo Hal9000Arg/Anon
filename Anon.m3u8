@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,Tostado
+#EXTINF:-1,Tostado
 https://mia.rtsp.me/QCYZdAZFmPehHvXtkBJ8pw/1735137072/hls/iniknR9y.m3u8?ip=138.204.5.128
 
 #EXTINF:-1,TN Noticias
