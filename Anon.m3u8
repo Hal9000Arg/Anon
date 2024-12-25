@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1,Tostado
+https://mia.rtsp.me/TF6h3My5Ab8XjIupsDbffA/1735130662/hls/iniknR9y.m3u8?ip=138.204.5.128
+
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
@@ -25,18 +29,15 @@ http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 #EXTINF:-1,America TV PY
 http://191.97.6.27:8000/play/a08d/index.m3u8
 
-#EXTINF:-1,Canal nueve
-http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
-
-
-
-
 
 #EXTINF:0,Telefe
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
 
 #EXTINF:0,Tl Novelas
 http://tv.teleclub.xyz/club/server_2/mundo/tlnovelas/index.m3u8
+
+#EXTINF:-1,RCN Novelas
+http://191.97.6.27:8000/play/a07z/index.m3u8
 
 #EXTINF:0,Univisión
 http://tv.teleclub.xyz/club/server_2/mundo/univision/index.m3u8
@@ -59,10 +60,6 @@ http://191.97.6.27:8000/play/a08p/index.m3u8
 
 #EXTINF:-1,Capital
 http://191.97.6.27:8000/play/a090/index.m3u8
-
-#EXTINF:0,TLC
-http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
-
 
 #EXTINF:-1,Animal Planet
 http://191.97.6.27:8000/play/a07j/index.m3u8
@@ -192,8 +189,7 @@ http://191.97.6.27:8000/play/a09e/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://191.97.6.27:8000/play/a09n/index.m3u8
 
-#EXTINF:-1,RCN Novelas
-http://191.97.6.27:8000/play/a07z/index.m3u8
+
 
 #EXTINF:-1,AE Mundo
 http://191.97.6.27:8000/play/a07s/index.m3u8
@@ -304,11 +300,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
 #EXTINF:-1,MTV
 http://191.97.6.27:8000/play/a09t/index.m3u8
 
-#EXTINF:0,MTV Hits
-http://tv.teleclub.xyz/club/server_2/musica/mtvhits/index.m3u8
 
-#EXTINF:0,Music Top
-http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
 
 
 
