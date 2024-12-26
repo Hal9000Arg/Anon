@@ -3,6 +3,9 @@
 #EXTINF:-1,Tostado
 https://rtsp.me/embed/iniknR9y.m3u8/
 
+#EXTINF:-1,Tostado Live
+blob:https://rtsp.me/4d543404-7b2a-4777-9ff8-48611ecd6e31
+
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
