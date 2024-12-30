@@ -300,18 +300,36 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
 
 
 #EXTINF:0,HBO
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10279.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
+
 
 #EXTINF:0,HBO 2
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10280.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 
 #EXTINF:0,HBO Plus
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10281.m3u8
 
+http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
 
 #EXTINF:0,HBO Family
 https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10282.m3u8
 
+
+#EXTINF:0,HBO Mundi
+http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
+
+
+
+#EXTINF:0,HBO Pop
+http://89.117.146.57/televall/YbVVqpeaWU/6.m3u8
+
+
+#EXTINF:0,HBO Signature
+http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
+
+
+
+#EXTINF:0,HBO Xtreme
+http://89.117.146.57/televall/YbVVqpeaWU/7.m3u8
 
 #EXTINF:-1,MTV
 http://191.97.6.27:8000/play/a09t/index.m3u8
