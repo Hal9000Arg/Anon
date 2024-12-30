@@ -106,6 +106,9 @@ http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
 
 
+#EXTINF:-1,El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
 
 #EXTINF:10,Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
