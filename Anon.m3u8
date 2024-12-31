@@ -1,12 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1,Tostado
-https://mia.rtsp.me/kMS31GjpITxQ-S2CiYXBNg/1735261147/hls/iniknR9y.m3u8?ip=138.204.5.128
 
+https://mia.rtsp.me/u_ySD-yEK5yy-5JMH0E2YA/1735610047/hls/iniknR9y.m3u8?ip=138.204.5.128
 
-#EXTINF:-1,TN Noticias
-https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_1080.m3u8
-
+#EXTINF:0,TN Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1,LN+
 https://www.youtube.com/watch?v=G5pHuBCqgrs
