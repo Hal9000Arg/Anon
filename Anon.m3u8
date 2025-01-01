@@ -122,6 +122,10 @@ http://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
 https://cxvpy2s.fubohd.com/lb/foxsports3/index.m3u8?token=fe0b9eeec03ad6c1de74aff093b48dede8e364ea-b9-1735162890-1735126890
 
 
+#EXTINF:0, Fox Sports Premium
+https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC41LjEyOA==/33_.m3u8?token=ip5bt1nCRVyuVwrdbjVHbw&expires=1735754753
+
+
 #EXTINF:0,DAZN 2
 http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
 
@@ -131,6 +135,9 @@ http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 #EXTINF:0,DAZN La Liga
 http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
 
+
+#EXTINF:0,BEIN La Liga
+https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC41LjEyOA==/19_.m3u8?token=aWNKsPJ3NoCaEVrKM3nvIw&expires=1735754929
 
 
 #EXTINF:0,Directv Sports +
