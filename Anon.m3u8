@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1,Tostado
-
 https://mia.rtsp.me/u_ySD-yEK5yy-5JMH0E2YA/1735610047/hls/iniknR9y.m3u8?ip=138.204.5.128
 
 #EXTINF:0,TN Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+https://youtu.be/cb12KmMMDJA
+
 
 #EXTINF:-1,LN+
 https://www.youtube.com/watch?v=G5pHuBCqgrs
@@ -122,9 +122,6 @@ http://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
 https://cxvpy2s.fubohd.com/lb/foxsports3/index.m3u8?token=fe0b9eeec03ad6c1de74aff093b48dede8e364ea-b9-1735162890-1735126890
 
 
-#EXTINF:0, Fox Sports Premium
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC41LjEyOA==/33_.m3u8?token=ip5bt1nCRVyuVwrdbjVHbw&expires=1735754753
-
 
 #EXTINF:0,DAZN 2
 http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
@@ -136,8 +133,6 @@ http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
 
 
-#EXTINF:0,BEIN La Liga
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC41LjEyOA==/19_.m3u8?token=aWNKsPJ3NoCaEVrKM3nvIw&expires=1735754929
 
 
 #EXTINF:0,Directv Sports +
@@ -218,8 +213,6 @@ http://191.97.6.27:8000/play/a095/index.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://191.97.6.27:8000/play/a09w/index.m3u8
 
-#EXTINF:0,Star Action
-http://tv.teleclub.xyz/club/server_2/entretenimiento/staraction/index.m3u8
 
 #EXTINF:0,Star Series
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
@@ -326,7 +319,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
 
 #EXTINF:0,HBO Family
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10282.m3u8
+http://89.117.146.57/auth/SB6kL9zEGF4UyrL516jn1V6Wl2Y2-_ozg4HY3_ZtlEHOl4BBNJ_Dc9CPD5l6ONLcQUQFEpFrN5E7PGqLsQHpnQ4lEEpZ0MrQ5T1W5AKnWJELVm3Dv27-1yW135INywcXz_qSqN2aorhJ6qW381Km9D8d6MasL8JMQ9GM8rVJ27tCZPYaO0Z0JbI2fT1tVx_SknY3e4lvA25TX_REEW__VK05cIHDN1SYgA4LjXu8gfVLvt72KNdDi5TAFBiXCILWKwzH30fWZiEz3BZlpjzMg0AOVyKL49DR2j_dDyz9GUSYozMfDWndBoFiYnFPXQNwFDIggzCLF-cMRni1-aeoBs3vR9wvSYHXyFJQn88ULeOqNGvYac2cOBEm_CL57FZjvmeG2lZW6k-4NeBLGe36kJVJ4zgPC3geFUrsmElzUF6z4HEy64Cb2n91qdA4S-3alxRQuFDSPBBo9Ev8FFCaI9PJUbCJTkjUBtkxWiZ-2mTW7WoGTvt8xApwxwn41N8e0XK1CaEEVVKpQd8-gchdO1rLtYuAMOyDd3LWKSObQDbRACZOhffeQCkGzL-33GnKeHPymPFRpejF5K3REMhVghYsEFz80ba29_GhJhZCwlc
 
 
 #EXTINF:0,HBO Mundi
