@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1,Tostado
-https://rtsp.me/embed/iniknR9y/
+https://mia.rtsp.me/-f5XL7iycRMf_7zs_mCtHg/1735862292/hls/iniknR9y.mp4
+
+#EXTINF:-1,Tostado 2
+https://mia.rtsp.me/8OuQryP_Lo_XtVVWcUdFnQ/1735862343/hls/iniknR9y.m3u8?ip=138.204.5.128
 
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
