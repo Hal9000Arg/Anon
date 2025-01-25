@@ -1,18 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,Tostado City
-https://mia.rtsp.me/8OuQryP_Lo_XtVVWcUdFnQ/1735862343/hls/iniknR9y.m3u8?ip=138.204.5.128
 
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
 #EXTINF:-1,LN+
 https://www.youtube.com/watch?v=G5pHuBCqgrs
-
-
-#EXTINF:-1,El Nueve
-
-https://usher.ttvnw.net/api/channel/hls/elnueveok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMTdkYjAzYWEtYTY0Yi00NmQ4LTk4MzEtY2M1ZGVjMTQ4NTVlIn0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Android&os_version=13&p=1101017&parent_domains=twitchplayer&platform=mobile_web&play_session_id=c46c106136f9945317f7fdba98be9cca&player_backend=mediaplayer&player_version=1.35.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=fc2585d0c5a73a92d1eed7c0b4651b1cb59a8072&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueveok%22%2C%22channel_id%22%3A1225822858%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22M3rOULeoHk5RjND3PylaOrSLo38tqM0l%22%2C%22expires%22%3A1736110767%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22138.204.5.128%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
 
 #EXTINF:-1,TV Pública 
@@ -115,11 +108,10 @@ http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 
 
 #EXTINF:0, Fox Sports 2
-http://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
 
 
 #EXTINF:0, Fox Sports 3
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC41LjEyOA==/10_.m3u8?token=R2siwojCmYxrEEDD3n1tiw&expires=1736122725
+
 
 
 
@@ -161,6 +153,13 @@ http://191.97.6.27:8000/play/a08t/index.m3u8
 
 #EXTINF:0,TNT Sports
 http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+
+
+
+#EXTINF:0,TNT Sports Premium
+https://aw1wcm92zq.fubohd.com/tntsports/mono.m3u8?md5=0vx8UgSefTzgXHhxZqOPUg&expires=1737869771
+
+
 
 #EXTINF:0,TyC Sports
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
@@ -315,11 +314,8 @@ http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 
 #EXTINF:0,HBO Plus
-
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
 
-#EXTINF:0,HBO Family
-http://89.117.146.57/auth/SB6kL9zEGF4UyrL516jn1V6Wl2Y2-_ozg4HY3_ZtlEHOl4BBNJ_Dc9CPD5l6ONLcQUQFEpFrN5E7PGqLsQHpnQ4lEEpZ0MrQ5T1W5AKnWJELVm3Dv27-1yW135INywcXz_qSqN2aorhJ6qW381Km9D8d6MasL8JMQ9GM8rVJ27tCZPYaO0Z0JbI2fT1tVx_SknY3e4lvA25TX_REEW__VK05cIHDN1SYgA4LjXu8gfVLvt72KNdDi5TAFBiXCILWKwzH30fWZiEz3BZlpjzMg0AOVyKL49DR2j_dDyz9GUSYozMfDWndBoFiYnFPXQNwFDIggzCLF-cMRni1-aeoBs3vR9wvSYHXyFJQn88ULeOqNGvYac2cOBEm_CL57FZjvmeG2lZW6k-4NeBLGe36kJVJ4zgPC3geFUrsmElzUF6z4HEy64Cb2n91qdA4S-3alxRQuFDSPBBo9Ev8FFCaI9PJUbCJTkjUBtkxWiZ-2mTW7WoGTvt8xApwxwn41N8e0XK1CaEEVVKpQd8-gchdO1rLtYuAMOyDd3LWKSObQDbRACZOhffeQCkGzL-33GnKeHPymPFRpejF5K3REMhVghYsEFz80ba29_GhJhZCwlc
 
 
 #EXTINF:0,HBO Mundi
