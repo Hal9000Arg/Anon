@@ -175,14 +175,18 @@ http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
 #EXTINF:0,TUDN VIX +
 http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
 
-#EXTINF:0,Cartoonito
-http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
+#EXTINF:-1 group-title="-",CARTOON NETWORKS SD
+http://181.78.21.46:8009/play/a00h
 
-#EXTINF:-1,Cartoon Network
-http://191.97.6.27:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="-",CARTOONITO SD
+http://181.78.21.46:8009/play/a00i
 
-#EXTINF:-1,BabyFirst
-http://191.97.6.27:8000/play/a0a2/index.m3u8
+
+#EXTINF:-1 group-title="-",CANAL INFANTIL HD
+http://181.78.21.46:8009/play/a00b
+
+#EXTINF:-1 group-title="-",BABY TV HD
+http://181.78.21.46:8009/play/a003
 
 #EXTINF:0,Tooncast
 http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
@@ -355,8 +359,7 @@ http://181.78.21.46:8009/play/a039
 http://181.78.21.46:8009/play/a02y
 #EXTINF:-1 group-title="-",AZTECA INTERNACIONAL HD
 http://181.78.21.46:8009/play/a03f
-#EXTINF:-1 group-title="-",BABY TV HD
-http://181.78.21.46:8009/play/a003
+
 #EXTINF:-1 group-title="-",BITME HD
 http://181.78.21.46:8009/play/a006
 #EXTINF:-1 group-title="-",CABLE NOTICIAS HD
@@ -367,8 +370,7 @@ http://181.78.21.46:8009/play/a008
 http://181.78.21.46:8009/play/a009
 #EXTINF:-1 group-title="-",CANAL DE LAS ESTRELLAS HD
 http://181.78.21.46:8009/play/a00a
-#EXTINF:-1 group-title="-",CANAL INFANTIL HD
-http://181.78.21.46:8009/play/a00b
+
 #EXTINF:-1 group-title="-",CANAL INSTITUCIONAL SD
 http://181.78.21.46:8009/play/a00c
 #EXTINF:-1 group-title="-",CANAL TRECE SD
@@ -381,10 +383,7 @@ http://181.78.21.46:8009/play/a00f
 http://181.78.21.46:8009/play/a00g
 #EXTINF:-1 group-title="-",CARACOLTV SD
 http://181.78.21.46:8009/play/a044
-#EXTINF:-1 group-title="-",CARTOON NETWORKS SD
-http://181.78.21.46:8009/play/a00h
-#EXTINF:-1 group-title="-",CARTOONITO SD
-http://181.78.21.46:8009/play/a00i
+
 #EXTINF:-1 group-title="-",CGTN
 http://181.78.21.46:8009/play/a00j
 #EXTINF:-1 group-title="-",CINE CANAL HD
