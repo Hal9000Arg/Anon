@@ -1,25 +1,20 @@
 8#EXTM3U
 
-
+#EXTINF:-1 group-title="-",CNN ESPANOL HD
+http://181.78.21.46:8009/play/a00q
+#EXTINF:-1 group-title="-",FRANCE 24
+http://181.78.21.46:8009/play/a01e
 #EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=cb12KmMMDJA
-
 #EXTINF:-1,LN+
 https://www.youtube.com/watch?v=G5pHuBCqgrs
-
-
 #EXTINF:-1,TV Pública 
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
-
 #EXTINF:0,El Gourmet
 http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
+#EXTINF:-1 group-title="-",FOOD NETWORK SD
+http://181.78.21.46:8009/play/a01d
 
-#EXTINF:-1,Telemundo
-http://191.97.6.27:8000/play/a07y/index.m3u8
-
-#EXTINF:-1,TVE
-http://191.97.6.27:8000/play/a0a1/index.m3u8
 
 #EXTINF:0,El Trece
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
@@ -30,82 +25,58 @@ http://191.97.6.27:8000/play/a08d/index.m3u8
 #EXTINF:0,Telefe
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
 
-#EXTINF:0,Tl Novelas
-http://tv.teleclub.xyz/club/server_2/mundo/tlnovelas/index.m3u8
 
 #EXTINF:-1,RCN Novelas
 http://191.97.6.27:8000/play/a07z/index.m3u8
 
-#EXTINF:0,Univisión
-http://tv.teleclub.xyz/club/server_2/mundo/univision/index.m3u8
-
-
-#EXTINF:0,Univisión Tlnovelas
-http://tv.teleclub.xyz/club/server_2/mundo/univisiontlnovelas/index.m3u8
+#EXTINF:-1 group-title="-",UNIVISION HD
+http://181.78.21.46:8009/play/a02p
+#EXTINF:-1 group-title="-",TLNOVELAS HD
+http://181.78.21.46:8009/play/a02l
 
 #EXTINF:0,Pasiones
 http://tv.teleclub.xyz/club/server_2/mundo/pasiones/index.m3u8
 
-#EXTINF:-1,CNN Espanol
-http://191.97.6.27:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1,Canal Estrellas
-http://191.97.6.27:8000/play/a07v/index.m3u8
 
-#EXTINF:-1,Canal del Congreso
-http://191.97.6.27:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="-",ANIMAL PLANET SD
+http://181.78.21.46:8009/play/a001
+#EXTINF:-1 group-title="-",LOVE NATURE HD
+http://181.78.21.46:8009/play/a01p
+#EXTINF:-1 group-title="-",NATGEO HD
+http://181.78.21.46:8009/play/a01w
 
-#EXTINF:-1,Capital
-http://191.97.6.27:8000/play/a090/index.m3u8
 
-#EXTINF:-1,Animal Planet
-http://191.97.6.27:8000/play/a07j/index.m3u8
 
-#EXTINF:-1,Nat Geo
-http://191.97.6.27:8000/play/a09o/index.m3u8
-
-#EXTINF:0,E!
-http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
-
+#EXTINF:-1 group-title="-",E! HD
+http://181.78.21.46:8009/play/a03a
+#EXTINF:-1 group-title="-",LIFETIME HD
+http://181.78.21.46:8009/play/a03e
 #EXTINF:-1,HomeandHealth
 http://191.97.6.27:8000/play/a084/index.m3u8
-
-#EXTINF:-1,Discovery Channel
-http://191.97.6.27:8000/play/a07i/index.m3u8
-
-#EXTINF:-1,Discovery ID
-http://191.97.6.27:8000/play/a0ce/index.m3u8
-
-#EXTINF:0,Discovery H&H
-http://tv.teleclub.xyz/club/server_2/cultura/discoveryh_h/index.m3u8
-
-#EXTINF:0,Discovery Science
-http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
-
-#EXTINF:0,Discovery Theater
-http://tv.teleclub.xyz/club/server_2/cultura/discoverytheater/index.m3u8
-
-#EXTINF:0,Discovery Turbo
-http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
-
-#EXTINF:0,Discovery World
-http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
-
-#EXTINF:0,History 
-http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
-
-#EXTINF:0,H2
-http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
+#EXTINF:-1 group-title="-",ID DISCOVERY SD
+http://181.78.21.46:8009/play/a01n
+#EXTINF:-1 group-title="-",DISCOVERY CHANNEL SD
+http://181.78.21.46:8009/play/a00v
+#EXTINF:-1 group-title="-",DISCOVERY H&H SD
+http://181.78.21.46:8009/play/a00w
+#EXTINF:-1 group-title="-",DISCOVERY SCIENCE SD
+http://181.78.21.46:8009/play/a00y
+#EXTINF:-1 group-title="-",DISCOVERY TURBO SD
+http://181.78.21.46:8009/play/a00z
+#EXTINF:-1 group-title="-",HISTORY 2 HD
+http://181.78.21.46:8009/play/a037
+#EXTINF:-1 group-title="-",HISTORY CHANNEL HD
+http://181.78.21.46:8009/play/a036
+#EXTINF:-1 group-title="-",HOGARTV HD
+http://181.78.21.46:8009/play/a01l
 
 
 #EXTINF:-1,El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-
 #EXTINF:10,Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
-
-
 
 #EXTINF:0, Fox Sports Premium
 https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/33_.m3u8?token=vsSxh8DBK2iaabMHlbU5DA&expires=1738424622
@@ -113,16 +84,11 @@ https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/33_.m3u8?token=
 #EXTINF:0, Fox Sports 
 https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/8_.m3u8?token=NGkmwu27sc6eHdKZ8oJ0LQ&expires=1738424758
 
-
 #EXTINF:0, Fox Sports 2
 https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/9_.m3u8?token=GW-IvmMr_8pxackNkpAlug&expires=1738424832
 
 #EXTINF:0, Fox Sports 3
 https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/10_.m3u8?token=7loyJ_5qQ3M9uGiW6KarDw&expires=1738424862
-
-
-#EXTINF:0, NBA
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/58_.m3u8?token=rppq3W15ef_TE8Yywxl5yw&expires=1738424917
 
 #EXTINF:0,DAZN 2
 http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
@@ -133,305 +99,12 @@ http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 #EXTINF:0,DAZN La Liga
 http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
 
-
-
-
 #EXTINF:0,Directv Sports +
 http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
 
 #EXTINF:0,Directv Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
 
-#EXTINF:-1,ESPN
-http://191.97.6.27:8000/play/a07o/index.m3u8
-
-#EXTINF:-1,ESPN 2
-http://191.97.6.27:8000/play/a0ah/index.m3u8
-
-#EXTINF:-1,ESPN 2 Latin
-http://191.97.6.27:8000/play/a07n/index.m3u8
-
-#EXTINF:-1,ESPN 3
-http://191.97.6.27:8000/play/a09h/index.m3u8
-
-#EXTINF:-1,ESPN 5
-http://191.97.6.27:8000/play/a089/index.m3u8
-
-#EXTINF:-1,ESPN CO
-http://191.97.6.27:8000/play/a08t/index.m3u8
-
-#EXTINF:0,TNT Sports
-http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
-
-#EXTINF:0,TNT Sports Premium
-https://aw1wcm92zq.fubohd.com/tntsports/mono.m3u8?md5=0vx8UgSefTzgXHhxZqOPUg&expires=1737869771
-
-#EXTINF:0,TyC Sports
-http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
-
-#EXTINF:0,TUDN
-http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
-
-#EXTINF:0,TUDN VIX +
-http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
-
-#EXTINF:-1 group-title="-",CARTOON NETWORKS SD
-http://181.78.21.46:8009/play/a00h
-
-#EXTINF:-1 group-title="-",CARTOONITO SD
-http://181.78.21.46:8009/play/a00i
-
-
-#EXTINF:-1 group-title="-",CANAL INFANTIL HD
-http://181.78.21.46:8009/play/a00b
-
-#EXTINF:-1 group-title="-",BABY TV HD
-http://181.78.21.46:8009/play/a003
-
-#EXTINF:0,Tooncast
-http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
-
-#EXTINF:-1,Discovery Kids
-http://191.97.6.27:8000/play/a0a5/index.m3u8
-
-#EXTINF:-1,Disney Channel
-http://191.97.6.27:8000/play/a07h/index.m3u8
-
-#EXTINF:-1,Disney Jr
-http://191.97.6.27:8000/play/a0ae/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://191.97.6.27:8000/play/a09e/index.m3u8
-
-#EXTINF:-1,Nickelodeon
-http://191.97.6.27:8000/play/a09n/index.m3u8
-
-#EXTINF:-1,AE Mundo
-http://191.97.6.27:8000/play/a07s/index.m3u8
-
-#EXTINF:-1,AXN
-http://191.97.6.27:8000/play/a095/index.m3u8
-
-#EXTINF:-1,STAR CHANNEL
-http://191.97.6.27:8000/play/a09w/index.m3u8
-
-#EXTINF:0,Star Series
-http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
-
-#EXTINF:-1,Cinecanal
-http://191.97.6.27:8000/play/a09q/index.m3u8
-
-#EXTINF:-1,Cinemax
-http://191.97.6.27:8000/play/a093/index.m3u8
-
-#EXTINF:-1,Sony
-http://191.97.6.27:8000/play/a094/index.m3u8
-
-#EXTINF:0,Sony Cine
-http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
-
-#EXTINF:-1,Space
-http://191.97.6.27:8000/play/a096/index.m3u8
-
-#EXTINF:-1,TCM
-http://191.97.6.27:8000/play/a09x/index.m3u8
-
-#EXTINF:-1,TLC
-http://191.97.6.27:8000/play/a07t/index.m3u8
-
-#EXTINF:-1,TNT
-http://191.97.6.27:8000/play/a09z/index.m3u8
-
-#EXTINF:0,TNT Series
-http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
-
-#EXTINF:-1,TNT Novelas
-http://191.97.6.27:8000/play/a082/index.m3u8
-
-#EXTINF:-1,USA SD
-http://191.97.6.27:8000/play/a0a4/index.m3u8
-
-#EXTINF:-1,Warner Channel
-http://191.97.6.27:8000/play/a07k/index.m3u8
-
-#EXTINF:0,Comedy Central
-http://tv.teleclub.xyz/club/server_2/entretenimiento/comedycentral/index.m3u8
-
-#EXTINF:0,DHE
-http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
-
-#EXTINF:0,De Pelicula
-http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
-
-#EXTINF:0,FX
-http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
-
-#EXTINF:0,Golden
-http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
-
-#EXTINF:0,Golden Edge
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
-
-#EXTINF:0,Golden Plus
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
-
-#EXTINF:0,Golden Premier
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
-
-#EXTINF:0,Golden Premier 2
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
-
-
-#EXTINF:0,Multipremier
-http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
-
-
-#EXTINF:0,Paramount Network
-http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
-
-
-#EXTINF:0,Studio Universal
-http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
-
-#EXTINF:0,Universal Cinema
-http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
-
-#EXTINF:0,Universal Premiere
-http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
-
-#EXTINF:0,Universal TV
-http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
-
-
-#EXTINF:0,HBO
-http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
-
-
-#EXTINF:0,HBO 2
-http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
-
-#EXTINF:0,HBO Plus
-http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
-
-
-
-#EXTINF:0,HBO Mundi
-http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
-
-
-
-#EXTINF:0,HBO Pop
-http://89.117.146.57/televall/YbVVqpeaWU/6.m3u8
-
-
-#EXTINF:0,HBO Signature
-http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
-
-
-
-#EXTINF:0,HBO Xtreme
-http://89.117.146.57/televall/YbVVqpeaWU/7.m3u8
-
-#EXTINF:-1,MTV
-http://191.97.6.27:8000/play/a09t/index.m3u8
-
-
-____________________________
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="-",3ABN SD
-http://181.78.21.46:8009/play/a03g
-#EXTINF:-1 group-title="-",A&E HD
-http://181.78.21.46:8009/play/a03c
-#EXTINF:-1 group-title="-",ANIMAL PLANET SD
-http://181.78.21.46:8009/play/a001
-#EXTINF:-1 group-title="-",AXN HD
-http://181.78.21.46:8009/play/a03d
-#EXTINF:-1 group-title="-",AZTECA CINEMA HD
-http://181.78.21.46:8009/play/a030
-#EXTINF:-1 group-title="-",AZTECA CLIC HD
-http://181.78.21.46:8009/play/a038
-#EXTINF:-1 group-title="-",AZTECA CORAZON HD
-http://181.78.21.46:8009/play/a039
-#EXTINF:-1 group-title="-",AZTECA DEPORTE HD
-http://181.78.21.46:8009/play/a02y
-#EXTINF:-1 group-title="-",AZTECA INTERNACIONAL HD
-http://181.78.21.46:8009/play/a03f
-
-#EXTINF:-1 group-title="-",BITME HD
-http://181.78.21.46:8009/play/a006
-#EXTINF:-1 group-title="-",CABLE NOTICIAS HD
-http://181.78.21.46:8009/play/a007
-#EXTINF:-1 group-title="-",CANAL CAPITAL SD
-http://181.78.21.46:8009/play/a008
-#EXTINF:-1 group-title="-",CANAL CONGRESO SD
-http://181.78.21.46:8009/play/a009
-#EXTINF:-1 group-title="-",CANAL DE LAS ESTRELLAS HD
-http://181.78.21.46:8009/play/a00a
-
-#EXTINF:-1 group-title="-",CANAL INSTITUCIONAL SD
-http://181.78.21.46:8009/play/a00c
-#EXTINF:-1 group-title="-",CANAL TRECE SD
-http://181.78.21.46:8009/play/a00d
-#EXTINF:-1 group-title="-",CANAL TRO SD
-http://181.78.21.46:8009/play/a00e
-#EXTINF:-1 group-title="-",CANAL UNO SD
-http://181.78.21.46:8009/play/a00f
-#EXTINF:-1 group-title="-",CARACOLTV HD
-http://181.78.21.46:8009/play/a00g
-#EXTINF:-1 group-title="-",CARACOLTV SD
-http://181.78.21.46:8009/play/a044
-
-#EXTINF:-1 group-title="-",CGTN
-http://181.78.21.46:8009/play/a00j
-#EXTINF:-1 group-title="-",CINE CANAL HD
-http://181.78.21.46:8009/play/a00k
-#EXTINF:-1 group-title="-",CINE FAMILIAR HD
-http://181.78.21.46:8009/play/a00l
-#EXTINF:-1 group-title="-",CINE HISPANO HD
-http://181.78.21.46:8009/play/a00m
-#EXTINF:-1 group-title="-",CINE PREMIUM HD
-http://181.78.21.46:8009/play/a00n
-#EXTINF:-1 group-title="-",CITYTV HD
-http://181.78.21.46:8009/play/a00o
-#EXTINF:-1 group-title="-",CNN ESPANOL HD
-http://181.78.21.46:8009/play/a00q
-#EXTINF:-1 group-title="-",COMEDY CENTRAL HD
-http://181.78.21.46:8009/play/a03q
-#EXTINF:-1 group-title="-",COSMOVISION SD
-http://181.78.21.46:8009/play/a00r
-#EXTINF:-1 group-title="-",CRISTOVISION SD
-http://181.78.21.46:8009/play/a00s
-#EXTINF:-1 group-title="-",DEPELICULA HD
-http://181.78.21.46:8009/play/a00t
-#EXTINF:-1 group-title="-",DHE HD
-http://181.78.21.46:8009/play/a00u
-#EXTINF:-1 group-title="-",DISCOVERY CHANNEL SD
-http://181.78.21.46:8009/play/a00v
-#EXTINF:-1 group-title="-",DISCOVERY H&H SD
-http://181.78.21.46:8009/play/a00w
-#EXTINF:-1 group-title="-",DISCOVERY KIDS SD
-http://181.78.21.46:8009/play/a00x
-#EXTINF:-1 group-title="-",DISCOVERY SCIENCE SD
-http://181.78.21.46:8009/play/a00y
-#EXTINF:-1 group-title="-",DISCOVERY TURBO SD
-http://181.78.21.46:8009/play/a00z
-#EXTINF:-1 group-title="-",DISNEY CHANNEL HD
-http://181.78.21.46:8009/play/a010
-#EXTINF:-1 group-title="-",DISNEY JUNIOR HD
-http://181.78.21.46:8009/play/a011
-#EXTINF:-1 group-title="-",DISTRITO COMEDIA HD
-http://181.78.21.46:8009/play/a012
-#EXTINF:-1 group-title="-",DREAMWORKS HD
-http://181.78.21.46:8009/play/a02z
-#EXTINF:-1 group-title="-",E! HD
-http://181.78.21.46:8009/play/a03a
-#EXTINF:-1 group-title="-",EJTV HD
-http://181.78.21.46:8009/play/a03r
-#EXTINF:-1 group-title="-",ENLACE HD
-http://181.78.21.46:8009/play/a014
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://181.78.21.46:8009/play/a016
 #EXTINF:-1 group-title="-",ESPN 3 HD
@@ -446,70 +119,74 @@ http://181.78.21.46:8009/play/a019
 http://181.78.21.46:8009/play/a01a
 #EXTINF:-1 group-title="-",ESPN HD
 http://181.78.21.46:8009/play/a015
-#EXTINF:-1 group-title="-",EWTN HD
-http://181.78.21.46:8009/play/a01c
-#EXTINF:-1 group-title="-",FOOD NETWORK SD
-http://181.78.21.46:8009/play/a01d
-#EXTINF:-1 group-title="-",FRANCE 24
-http://181.78.21.46:8009/play/a01e
-#EXTINF:-1 group-title="-",FX HD
-http://181.78.21.46:8009/play/a01f
-#EXTINF:-1 group-title="-",GOLDEN EDGE HD
-http://181.78.21.46:8009/play/a01i
-#EXTINF:-1 group-title="-",GOLDEN HD
-http://181.78.21.46:8009/play/a01h
-#EXTINF:-1 group-title="-",HGTV HD
-http://181.78.21.46:8009/play/a01j
-#EXTINF:-1 group-title="-",HISPANTV
-http://181.78.21.46:8009/play/a01k
-#EXTINF:-1 group-title="-",HISTORY 2 HD
-http://181.78.21.46:8009/play/a037
-#EXTINF:-1 group-title="-",HISTORY CHANNEL HD
-http://181.78.21.46:8009/play/a036
-#EXTINF:-1 group-title="-",HOGARTV HD
-http://181.78.21.46:8009/play/a01l
-#EXTINF:-1 group-title="-",HTV HD
-http://181.78.21.46:8009/play/a01m
-#EXTINF:-1 group-title="-",ID DISCOVERY SD
-http://181.78.21.46:8009/play/a01n
-#EXTINF:-1 group-title="-",IVC HD
-http://181.78.21.46:8009/play/a035
-#EXTINF:-1 group-title="-",LA KALLE HD
-http://181.78.21.46:8009/play/a01o
-#EXTINF:-1 group-title="-",LIFETIME HD
-http://181.78.21.46:8009/play/a03e
-#EXTINF:-1 group-title="-",LOVE NATURE HD
-http://181.78.21.46:8009/play/a01p
-#EXTINF:-1 group-title="-",MARIA VISION HD
-http://181.78.21.46:8009/play/a005
-#EXTINF:-1 group-title="-",MIMUSICA POPULAR HD
-http://181.78.21.46:8009/play/a01r
-#EXTINF:-1 group-title="-",MIMUSICA REGGAETON HD
-http://181.78.21.46:8009/play/a01s
-#EXTINF:-1 group-title="-",MIMUSICA ROMANTICA HD
-http://181.78.21.46:8009/play/a01t
-#EXTINF:-1 group-title="-",MIMUSICA SALSA HD
-http://181.78.21.46:8009/play/a01u
-#EXTINF:-1 group-title="-",MTV SD
-http://181.78.21.46:8009/play/a01v
-#EXTINF:-1 group-title="-",NATGEO HD
-http://181.78.21.46:8009/play/a01w
-#EXTINF:-1 group-title="-",NICK SD
-http://181.78.21.46:8009/play/a01x
-#EXTINF:-1 group-title="-",PARAMOUNT HD
-http://181.78.21.46:8009/play/a01z
+
+#EXTINF:0,TNT Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+
+#EXTINF:0,TyC Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+
+#EXTINF:0,TUDN
+http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
+
+#EXTINF:0,TUDN VIX +
+http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
+
+
+
+#EXTINF:-1 group-title="-",CARACOLTV HD
+http://181.78.21.46:8009/play/a00g
+#EXTINF:-1 group-title="-",CARACOLTV SD
+http://181.78.21.46:8009/play/a044
 #EXTINF:-1 group-title="-",PLIM PLIM HD
 http://181.78.21.46:8009/play/a03o
-#EXTINF:-1 group-title="-",RCN HD
-http://181.78.21.46:8009/play/a020
-#EXTINF:-1 group-title="-",RCN SD
-http://181.78.21.46:8009/play/a045
-#EXTINF:-1 group-title="-",RUMBATV HD
-http://181.78.21.46:8009/play/a021
-#EXTINF:-1 group-title="-",SENAL COLOMBIA SD
-http://181.78.21.46:8009/play/a023
-#EXTINF:-1 group-title="-",SERVYCOM TV HD
-http://181.78.21.46:8009/play/a042
+#EXTINF:-1 group-title="-",CARTOON NETWORKS SD
+http://181.78.21.46:8009/play/a00h
+#EXTINF:-1 group-title="-",CARTOONITO SD
+http://181.78.21.46:8009/play/a00i
+#EXTINF:-1 group-title="-",TOONCAST SD
+http://181.78.21.46:8009/play/a03l
+#EXTINF:-1 group-title="-",CANAL INFANTIL HD
+http://181.78.21.46:8009/play/a00b
+#EXTINF:-1 group-title="-",NICK SD
+http://181.78.21.46:8009/play/a01x
+#EXTINF:-1 group-title="-",BABY TV HD
+http://181.78.21.46:8009/play/a003
+#EXTINF:-1 group-title="-",BITME HD
+http://181.78.21.46:8009/play/a006
+#EXTINF:0,Tooncast
+http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
+#EXTINF:-1 group-title="-",DISCOVERY KIDS SD
+http://181.78.21.46:8009/play/a00x
+#EXTINF:-1 group-title="-",DISNEY CHANNEL HD
+http://181.78.21.46:8009/play/a010
+#EXTINF:-1 group-title="-",DISNEY JUNIOR HD
+http://181.78.21.46:8009/play/a011
+#EXTINF:-1 group-title="-",DREAMWORKS HD
+http://181.78.21.46:8009/play/a02z
+
+
+
+#EXTINF:-1 group-title="-",A&E HD
+http://181.78.21.46:8009/play/a03c
+#EXTINF:-1 group-title="-",AXN HD
+http://181.78.21.46:8009/play/a03d
+#EXTINF:-1 group-title="-",CINE CANAL HD
+http://181.78.21.46:8009/play/a00k
+#EXTINF:-1 group-title="-",CINE FAMILIAR HD
+http://181.78.21.46:8009/play/a00l
+#EXTINF:-1 group-title="-",CINE HISPANO HD
+http://181.78.21.46:8009/play/a00m
+#EXTINF:-1 group-title="-",CINE PREMIUM HD
+http://181.78.21.46:8009/play/a00n
+
+
+#EXTINF:0,Star Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://191.97.6.27:8000/play/a093/index.m3u8
+
 #EXTINF:-1 group-title="-",SONY CHANNEL HD
 http://181.78.21.46:8009/play/a033
 #EXTINF:-1 group-title="-",SONY MOVIES HD
@@ -520,63 +197,90 @@ http://181.78.21.46:8009/play/a024
 http://181.78.21.46:8009/play/a025
 #EXTINF:-1 group-title="-",TCM SD
 http://181.78.21.46:8009/play/a027
-#EXTINF:-1 group-title="-",TELEAMIGA SD
-http://181.78.21.46:8009/play/a028
-#EXTINF:-1 group-title="-",TELEANTIOQUIA GO HD
-http://181.78.21.46:8009/play/a03s
-#EXTINF:-1 group-title="-",TELEANTIOQUIA HD
-http://181.78.21.46:8009/play/a029
-#EXTINF:-1 group-title="-",TELECAFE SD
-http://181.78.21.46:8009/play/a02b
-#EXTINF:-1 group-title="-",TELECARIBE HD
-http://181.78.21.46:8009/play/a02c
-#EXTINF:-1 group-title="-",TELECARIBE PLUS HD
-http://181.78.21.46:8009/play/a02x
-#EXTINF:-1 group-title="-",TELEHIT MUSICA HD
-http://181.78.21.46:8009/play/a02e
-#EXTINF:-1 group-title="-",TELEISLAS HD
-http://181.78.21.46:8009/play/a02f
-#EXTINF:-1 group-title="-",TELEMEDELLIN HD
-http://181.78.21.46:8009/play/a02g
-#EXTINF:-1 group-title="-",TELEMUNDO HD
-http://181.78.21.46:8009/play/a03b
-#EXTINF:-1 group-title="-",TELENOSTALGIA HD
-http://181.78.21.46:8009/play/a02h
-#EXTINF:-1 group-title="-",TELEPACIFICO SD
-http://181.78.21.46:8009/play/a02i
-#EXTINF:-1 group-title="-",TELEVID SD
-http://181.78.21.46:8009/play/a02j
+
+
 #EXTINF:-1 group-title="-",TLC SD
 http://181.78.21.46:8009/play/a02k
-#EXTINF:-1 group-title="-",TLNOVELAS HD
-http://181.78.21.46:8009/play/a02l
 #EXTINF:-1 group-title="-",TNT NOVELAS SD
 http://181.78.21.46:8009/play/a026
 #EXTINF:-1 group-title="-",TNT SD
 http://181.78.21.46:8009/play/a02m
 #EXTINF:-1 group-title="-",TNT SERIES SD
 http://181.78.21.46:8009/play/a02n
-#EXTINF:-1 group-title="-",TOONCAST SD
-http://181.78.21.46:8009/play/a03l
-#EXTINF:-1 group-title="-",TV AGRO HD
-http://181.78.21.46:8009/play/a02o
+#EXTINF:-1 group-title="-",USA HD
+http://181.78.21.46:8009/play/a03i
+
+
+#EXTINF:-1,Warner Channel
+http://191.97.6.27:8000/play/a07k/index.m3u8
+
+
+#EXTINF:-1 group-title="-",COMEDY CENTRAL HD
+http://181.78.21.46:8009/play/a03q
+#EXTINF:-1 group-title="-",DISTRITO COMEDIA HD
+http://181.78.21.46:8009/play/a012
+#EXTINF:-1 group-title="-",DEPELICULA HD
+http://181.78.21.46:8009/play/a00t
+#EXTINF:-1 group-title="-",DHE HD
+http://181.78.21.46:8009/play/a00u
+#EXTINF:-1 group-title="-",FX HD
+http://181.78.21.46:8009/play/a01f
+#EXTINF:-1 group-title="-",GOLDEN EDGE HD
+http://181.78.21.46:8009/play/a01i
+#EXTINF:-1 group-title="-",GOLDEN HD
+http://181.78.21.46:8009/play/a01h
+#EXTINF:0,Golden Plus
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
+#EXTINF:0,Golden Premier
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
+#EXTINF:0,Golden Premier 2
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
+#EXTINF:0,Multipremier
+http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
+#EXTINF:0,Paramount Network
+http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
+#EXTINF:-1 group-title="-",PARAMOUNT HD
+http://181.78.21.46:8009/play/a01z
+
+
+
 #EXTINF:-1 group-title="-",UNIVERSAL HD
 http://181.78.21.46:8009/play/a031
 #EXTINF:-1 group-title="-",UNIVERSAL STUDIO HD
 http://181.78.21.46:8009/play/a032
-#EXTINF:-1 group-title="-",UNIVISION HD
-http://181.78.21.46:8009/play/a02p
-#EXTINF:-1 group-title="-",USA HD
-http://181.78.21.46:8009/play/a03i
-#EXTINF:-1 group-title="-",VPLUS
-http://181.78.21.46:8009/play/a02r
-#EXTINF:-1 group-title="-",WINSPORTS HD
-http://181.78.21.46:8009/play/a02s
-#EXTINF:-1 group-title="-",ZOOM SD
-http://181.78.21.46:8009/play/a02t
+#EXTINF:0,Universal Cinema
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
+#EXTINF:0,Universal Premiere
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
 
 
+#EXTINF:0,HBO
+http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
+#EXTINF:0,HBO 2
+http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
+#EXTINF:0,HBO Plus
+http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
+#EXTINF:0,HBO Mundi
+http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
+#EXTINF:0,HBO Pop
+http://89.117.146.57/televall/YbVVqpeaWU/6.m3u8
+#EXTINF:0,HBO Signature
+http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
+#EXTINF:0,HBO Xtreme
+http://89.117.146.57/televall/YbVVqpeaWU/7.m3u8
+
+#EXTINF:-1 group-title="-",HTV HD
+http://181.78.21.46:8009/play/a01m
+#EXTINF:-1 group-title="-",MIMUSICA POPULAR HD
+http://181.78.21.46:8009/play/a01r
+#EXTINF:-1 group-title="-",MIMUSICA REGGAETON HD
+http://181.78.21.46:8009/play/a01s
+#EXTINF:-1 group-title="-",MIMUSICA ROMANTICA HD
+http://181.78.21.46:8009/play/a01t
+#EXTINF:-1 group-title="-",MIMUSICA SALSA HD
+http://181.78.21.46:8009/play/a01u
+#EXTINF:-1 group-title="-",MTV SD
+http://181.78.21.46:8009/play/a01v
 
 
-
-
+____________________________
