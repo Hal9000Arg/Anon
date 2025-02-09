@@ -15,15 +15,13 @@ http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
 #EXTINF:-1 group-title="-",FOOD NETWORK SD
 http://181.78.21.46:8009/play/a01d
 
-#EXTINF:0,El Nueve
-https://usher.ttvnw.net/api/channel/hls/elnueveok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMDM5NWNlZTctNDJiNy00ZWViLWI0MmYtZmQ1NTQyZGVmNzk3In0%3D&allow_source=true&browser_family=chrome&browser_version=132.0&cdm=wv&fast_bread=true&os_name=Android&os_version=13&p=4548125&parent_domains=twitchplayer&platform=mobile_web&play_session_id=990fbfca816b851ebc347138c5ecb126&player_backend=mediaplayer&player_version=1.37.0-rc.1.1&playlist_include_framerate=true&reassignments_supported=true&sig=678ed8efb590bcbf7b619ec9c8a035e7b4bcad7d&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueveok%22%2C%22channel_id%22%3A1225822858%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22M3rOULeoHk5RjND3PylaOrSLo38tqM0l%22%2C%22expires%22%3A1738702169%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22138.204.7.254%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
 
 
 #EXTINF:0,El Trece
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
-#EXTINF:-1,America TV PY
-http://191.97.6.27:8000/play/a08d/index.m3u8
+
 
 #EXTINF:0,Telefe
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
