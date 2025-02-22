@@ -255,6 +255,8 @@ http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 #EXTINF:0,HBO Plus
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
+#EXTINF:0,HBO Family
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:0,HBO Pop
 http://89.117.146.57/televall/YbVVqpeaWU/6.m3u8
 #EXTINF:0,HBO Signature
