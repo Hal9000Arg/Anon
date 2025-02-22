@@ -80,14 +80,13 @@ http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 #EXTINF:0, Fox Sports Premium
 https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/33_.m3u8?token=vsSxh8DBK2iaabMHlbU5DA&expires=1738424622
 
-#EXTINF:0, Fox Sports 
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/8_.m3u8?token=NGkmwu27sc6eHdKZ8oJ0LQ&expires=1738424758
+#EXTINF:0, Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:0, Fox Sports 2
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/9_.m3u8?token=GW-IvmMr_8pxackNkpAlug&expires=1738424832
-
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:0, Fox Sports 3
-https://deportes.slkdhfdhldeportes.com:8080/MTM4LjIwNC43LjI1NA==/10_.m3u8?token=7loyJ_5qQ3M9uGiW6KarDw&expires=1738424862
+
 
 #EXTINF:0,DAZN 2
 http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
