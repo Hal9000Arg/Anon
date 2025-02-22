@@ -22,8 +22,13 @@ http://181.78.21.46:8009/play/a01d
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
 #EXTINF:0,America TV HD
-#EXTVLCOPT:network-caching=1000
-http://179.63.36.2:8000/play/a0q0/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=934000,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.640016"
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1894000,RESOLUTION=960x540,CODECS="mp4a.40.2,avc1.64001f"
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2594000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.640020"
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:0,Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
