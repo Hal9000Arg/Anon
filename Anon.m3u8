@@ -27,8 +27,6 @@ http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
 
 
-#EXTINF:-1,RCN Novelas
-http://191.97.6.27:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 group-title="-",UNIVISION HD
 http://181.78.21.46:8009/play/a02p
@@ -186,7 +184,7 @@ http://181.78.21.46:8009/play/a00n
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
 
 #EXTINF:-1,Cinemax
-http://191.97.6.27:8000/play/a093/index.m3u8
+
 
 #EXTINF:-1 group-title="-",SONY CHANNEL HD
 http://181.78.21.46:8009/play/a033
@@ -216,8 +214,6 @@ http://181.78.21.46:8009/play/a03i
 http://191.97.6.27:8000/play/a07k/index.m3u8
 
 
-#EXTINF:-1 group-title="-",COMEDY CENTRAL HD
-http://181.78.21.46:8009/play/a03q
 #EXTINF:-1 group-title="-",DISTRITO COMEDIA HD
 http://181.78.21.46:8009/play/a012
 #EXTINF:-1 group-title="-",DEPELICULA HD
@@ -260,8 +256,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 #EXTINF:0,HBO Plus
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
-#EXTINF:0,HBO Mundi
-http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
 #EXTINF:0,HBO Pop
 http://89.117.146.57/televall/YbVVqpeaWU/6.m3u8
 #EXTINF:0,HBO Signature
